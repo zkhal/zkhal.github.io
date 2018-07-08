@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome To zkhal repo
 description: keep smile and feel happy
-permalink: date
+permalink: /:categories/:year/:month/:day/:title:output_ext
 timezone: Indonesia/Makassar
