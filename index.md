@@ -1,4 +1,5 @@
 ## Welcome to zkhal repo
+Masih dalam tahap pengembangan :'D
 
 ### Tujuan?
 ```markdown
@@ -27,4 +28,4 @@
 
 ### Contact
 
-[Gmail](url)                                         [Facebook](url)                                                [Telegram](url)
+[Gmail](url)                 [Facebook](url)              [Telegram](url)
