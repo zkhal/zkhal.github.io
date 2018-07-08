@@ -25,6 +25,8 @@ Masih dalam tahap pengembangan :'D
 
 [Deface](url)
 
+[Patching Bug](url)
+
 [Write Up](url)
 
 [Tools](url)
