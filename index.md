@@ -34,4 +34,4 @@ Masih dalam tahap pengembangan :'D
 
 ### Contact
 
-[Gmail](kucing.p01.sec@gmail.com)                 [Facebook](https://facebook.com/zkhalidul.zkhalidul)
+[Facebook](https://facebook.com/zkhalidul.zkhalidul)
