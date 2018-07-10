@@ -34,4 +34,4 @@ Masih dalam tahap pengembangan :'D
 
 ### Contact
 
-[Gmail](url)                 [Facebook](url)              [Telegram](url)
+[Gmail](url)                 [Facebook](https://facebook.com/zkhalidul.zkhalidul)              [Telegram](url)
